@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 <!-- - 🔭 I’m currently working on [my new portfolio](https://kunjadiyakinjal14.com/)
  -->
 - 🌱 I’m currently learning **NextJs , ReactJs , Python**
-
-<!-- - 👨‍💻 All of my projects are available at [https://kunjadiyakinjal14.com/](https://kunjadiyakinjal14.com/) -->
 - 💬 Ask me about **Front-End Technologies**
 - 📫 How to reach me **kunjadiyakinjal14@gmail.com**
+
+<!-- - 👨‍💻 All of my projects are available at [https://kunjadiyakinjal14.com/](https://kunjadiyakinjal14.com/) -->
 <!-- - 📄 Know about my experiences [https://kunjadiyakinjal14.com/](https://kunjadiyakinjal14.com/) -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
