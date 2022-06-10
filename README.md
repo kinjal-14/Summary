@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Kinjal Kunjadiya</h1>
 <h3 align="center">I am a web developer.</h3>
 
-- 🔭 I’m currently working on [my new portfolio](https://kunjadiyakinjal14.com/)
-
+<!-- - 🔭 I’m currently working on [my new portfolio](https://kunjadiyakinjal14.com/)
+ -->
 - 🌱 I’m currently learning **NextJs , ReactJs , Python**
 
 <!-- - 👨‍💻 All of my projects are available at [https://kunjadiyakinjal14.com/](https://kunjadiyakinjal14.com/) -->
